@@ -4,6 +4,8 @@ Welcome to my project!
 
 ## Usage
 
+I am using R
+
 
 ## Project Structure
 
