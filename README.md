@@ -1,4 +1,4 @@
-# re-simple-python-project
+# my demo git project
 
 Welcome to my project!
 
